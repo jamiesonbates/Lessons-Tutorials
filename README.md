@@ -6,7 +6,7 @@ This repo is meant to organize all the lessons I have created and delivered or t
 Much of this repo will include content that I created while working as a Resident Instructor at Galvanize for the six months after I completed Galvanize's web development immersive program.
 
 ## Lessons
-The following are lessons I have created and delivered.
+The following are lessons I have created and delivered to students.
 * [DOM Events, Event Object, and Event Propagation and Delegation](https://gist.github.com/jamiesonbates/adef37da880d9d420dd7521908181274)
 * [HTML Forms and Form Validation](https://gist.github.com/jamiesonbates/2d72e918aef6e3d5b6eeb7a81b8b8682)
 * [JavaScript Higher-Order Functions](https://gist.github.com/jamiesonbates/e46ea3953e7a41aeb4cd3d9fe81b1033)
