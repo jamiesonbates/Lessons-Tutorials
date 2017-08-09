@@ -13,9 +13,11 @@ The following are lessons I have created and delivered to students.
 * [HTTP Server with Express.js](https://docs.google.com/presentation/d/1vBUUq6-ULxH__8geQs2OQPhyDRcSEsossK2t4i9jV0I/edit#slide=id.p)
 * [Migration and Seeds with Knex](https://gist.github.com/jamiesonbates/178f1bee34260510339072b47bbcf4b9)
 * [User Authorization](https://gist.github.com/jamiesonbates/b6976ac948eab3cb6b14e399f0225632)
+* [Heroku Deployment](https://gist.github.com/jamiesonbates/2b3b9129c3c4ebc7f3a090c538061c99)
 
 ## Tutorials/Challenges
 * [Debug an express server](https://github.com/jamiesonbates/express-server-challenge)
 * [Build migrations and seed with knex](https://github.com/jamiesonbates/knex-migrations-seeds-demo)
 * [Fix vulnerable routes with authorization](https://github.com/jamiesonbates/authorization-demo)
 * [Data Structures and Algorithms](https://github.com/jamiesonbates/data-structures-and-algorithms)
+* [Prepare an app for deployment to Heroku and deploy!](https://github.com/jamiesonbates/heroku-hello-world)
