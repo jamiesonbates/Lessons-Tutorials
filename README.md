@@ -14,7 +14,8 @@ The following are lessons I have created and delivered.
 * [Migration and Seeds with Knex](https://gist.github.com/jamiesonbates/178f1bee34260510339072b47bbcf4b9)
 * [User Authorization](https://gist.github.com/jamiesonbates/b6976ac948eab3cb6b14e399f0225632)
 
-## Tutorials
+## Tutorials/Challenges
 * [Debug an express server](https://github.com/jamiesonbates/express-server-challenge)
 * [Build migrations and seed with knex](https://github.com/jamiesonbates/knex-migrations-seeds-demo)
 * [Fix vulnerable routes with authorization](https://github.com/jamiesonbates/authorization-demo)
+* [Data Structures and Algorithms](https://github.com/jamiesonbates/data-structures-and-algorithms)
